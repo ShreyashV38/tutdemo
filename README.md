@@ -1,4 +1,4 @@
 # tutdemo
 demo repo for testing
 <br>
-<strong>changed/updated</strong
+<strong>changed/updated</strong>
